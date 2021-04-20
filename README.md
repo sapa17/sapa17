@@ -2,12 +2,13 @@
 
 ![image](https://github.com/sapa17/sapa17/blob/master/ns.gif)
 
-- Entrepreneur, Gamer, Business Developer
+- Entrepreneur, Gamer, Content creator, Music freak
+
 
 ```
-""Luck is great, but most of life is hard work""
+""Luck is great, but life is hard work""
 ```
 
-***thanks for checking out!
+***thanks for checking out!***
 
 ---
