@@ -1,14 +1,8 @@
-### Hi there 👋 Sai here :)
+[![Social banner for jh3y](https://github.com/saimj7/saimj7/blob/master/ns.gif)]
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Sai.
+</p>
+<p align='center'>Reach out @ <a href="https://www.linkedin.com/in/sai-chand-paruchuri-77660161/">LinkedIn</a>.</p>
 
-![image](https://github.com/sapa17/sapa17/blob/master/ns.gif)
-
-- Entrepreneur, Gamer, Content creator, Music freak
-
-
-```
-""Luck is great, but life is hard work""
-```
-
-***thanks for checking out!***
-
----
+<h1 align='center'><i>Luck is great but life is hardwork!</i></h1>
