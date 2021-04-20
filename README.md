@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/saimj7/saimj7/blob/master/ns.gif)]
+![Social banner for jh3y](https://github.com/saimj7/saimj7/blob/master/ns.gif)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Sai.
